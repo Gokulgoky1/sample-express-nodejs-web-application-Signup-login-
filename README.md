@@ -4,7 +4,7 @@ Open Visual Studio
 
 open Terminal
 
-Run command:
+Run command: nodemon app
 
 got to :localhost:3000
 -
